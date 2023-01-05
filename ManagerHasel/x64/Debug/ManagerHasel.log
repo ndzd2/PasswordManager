@@ -1,0 +1,5 @@
+﻿  ManagerHasel.cpp
+C:\Users\Patryk\source\repos\ManagerHasel\ManagerHasel\ManagerHasel.cpp(125,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Patryk\source\repos\ManagerHasel\ManagerHasel\ManagerHasel.cpp(459,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Patryk\source\repos\ManagerHasel\ManagerHasel\ManagerHasel.cpp(578,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ManagerHasel.vcxproj -> C:\Users\Patryk\source\repos\ManagerHasel\x64\Debug\ManagerHasel.exe
